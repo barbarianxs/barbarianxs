@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning both Front-end and Back-end.
 - 📫 How to reach me: 212320028@hdu.edu.cn
 - 😄 Pastime: Reading, Running, Eating
-- 🌱 I know little about these following things:
+- ✨ I know a little about these following things:
 
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
