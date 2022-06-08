@@ -7,7 +7,6 @@
 
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
-![](https://img.shields.io/badge/React.js-gray?style=flat&logo=react)
 ![](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
 ![](https://img.shields.io/badge/Java-gray?style=flat&logo=java)
 ![](https://img.shields.io/badge/Pytorch-gray?style=flat&logo=pytorch)
