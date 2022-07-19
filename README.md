@@ -11,6 +11,7 @@
 ![](https://img.shields.io/badge/Java-gray?style=flat&logo=java)
 ![](https://img.shields.io/badge/Pytorch-gray?style=flat&logo=pytorch)
 ![](https://img.shields.io/badge/Git-gray?style=flat&logo=git)
+![](https://img.shields.io/badge/Docker-gray?style=flat&logo=docker)
 <!-- ![](https://img.shields.io/badge/Redis-gray?style=flat&logo=redis) -->
 <!-- ![](https://img.shields.io/badge/SpringBoot-gray?style=flat&logo=springboot) -->
 
