@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Front-end.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: 212320028@hdu.edu.cn
 - 😄 Pastime: Reading, Running, Eating
 - ✨ I know a little about these following things:
