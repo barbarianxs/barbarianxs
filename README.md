@@ -7,8 +7,8 @@
 
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
+![](https://img.shields.io/badge/React-gray?style=flat&logo=react)
 ![](https://img.shields.io/badge/SpringBoot-gray?style=flat&logo=springboot)
-![](https://img.shields.io/badge/Redis-gray?style=flat&logo=redis)
 ![](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux)
 ![](https://img.shields.io/badge/Git-gray?style=flat&logo=git)
 
