@@ -12,6 +12,6 @@
 ![](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux)
 ![](https://img.shields.io/badge/Git-gray?style=flat&logo=git)
 
-[![YANGJUNYAN0715's GitHub stats](https://github-readme-stats.vercel.app/api?username=YANGJUNYAN0715&show_icons=true&theme=tokyonight&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![YANGJUNYAN0715's GitHub stats](https://github-readme-stats.vercel.app/api?username=YANGJUNYAN0715&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=467fe5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YANGJUNYAN0715&layout=compact&langs_count=6&hide=html&icon_color=ff3860)](https://github.com/anuraghazra/github-readme-stats)
