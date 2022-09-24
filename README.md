@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/SpringBoot-gray?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
-![](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux)
+![](https://img.shields.io/badge/Go-gray?style=flat&logo=go)
 ![](https://img.shields.io/badge/Git-gray?style=flat&logo=git)
 
 [![YANGJUNYAN0715's GitHub stats](https://github-readme-stats.vercel.app/api?username=YANGJUNYAN0715&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=467fe5)](https://github.com/anuraghazra/github-readme-stats)
