@@ -6,10 +6,9 @@
 - ✨ I know a little about these following things:
 
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
-![](https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript)
-![](https://img.shields.io/badge/Dart-gray?style=flat&logo=dart)
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
-![](https://img.shields.io/badge/Python-gray?style=flat&logo=python)
+![](https://img.shields.io/badge/Springboot-gray?style=flat&logo=springboot)
+![](https://img.shields.io/badge/Mysql-gray?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux)
 ![](https://img.shields.io/badge/Git-gray?style=flat&logo=git)
 
