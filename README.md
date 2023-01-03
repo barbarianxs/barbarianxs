@@ -6,6 +6,7 @@
 - ✨ I know a little about these following things:
 
 ![](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Go-gray?style=flat&logo=go)
 ![](https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js)
 ![](https://img.shields.io/badge/Spring-gray?style=flat&logo=spring)
 ![](https://img.shields.io/badge/Springboot-gray?style=flat&logo=springboot)
